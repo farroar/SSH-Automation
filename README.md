@@ -9,4 +9,6 @@ It also creates a log file for each device it connects to and places them into t
 
 Basic usage:
 
-SSHCommands-v2.py -a (address file) -c (command file)
+SSHCommands-v2.py -a (hosts file) -c (command file)
+
+check out ktbyers and netmiko documentation for details on how the SSH connections and hosts files work
