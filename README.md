@@ -9,4 +9,4 @@ It also creates a log file for each device it connects to and places them into t
 
 Basic usage:
 
-SSHCommands-v2.py -a <address file> -c <command file>
+SSHCommands-v2.py -a (address file) -c (command file)
